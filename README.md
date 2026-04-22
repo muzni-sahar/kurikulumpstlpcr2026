@@ -528,7 +528,7 @@
 </div>
 
 <footer>
-  Program Studi Sarjana Terapan D4 Teknik Listrik Politeknik Caltex Riau &nbsp;|&nbsp; Dokumen Peta Kurikulum &nbsp;|&nbsp; Hover pada sel matriks untuk keterangan detail
+  Program Studi Sarjana Terapan D4 Teknik Listrik Politeknik Caltex Riau &nbsp;|&nbsp; Dokumen Kurikulum PSTL PCR 2026
 </footer>
 
 </body>
