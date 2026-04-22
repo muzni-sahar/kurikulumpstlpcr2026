@@ -1,5 +1,4 @@
 [index.html](https://github.com/user-attachments/files/26962148/index.html)
-//<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -246,7 +245,7 @@
 <body>
 
 <header>
-  <div class="sup-label">Program Studi Teknik Ketenagalistrikan</div>
+  <div class="sup-label">Program Studi Sarjana Terapan D4 Teknik Listrik Politeknik Caltex Riau </div>
   <h1>Peta Hubungan <em>PEO</em> –<br>Profil Lulusan – CPL</h1>
   <p>Visualisasi keterkaitan antara 3 Program Educational Objectives, 2 Profil Lulusan, dan 10 Capaian Pembelajaran Lulusan secara komprehensif dan sistematis.</p>
 </header>
@@ -529,7 +528,7 @@
 </div>
 
 <footer>
-  Program Studi Teknik Ketenagalistrikan &nbsp;|&nbsp; Dokumen Peta Kurikulum &nbsp;|&nbsp; Hover pada sel matriks untuk keterangan detail
+  Program Studi Sarjana Terapan D4 Teknik Listrik Politeknik Caltex Riau &nbsp;|&nbsp; Dokumen Peta Kurikulum &nbsp;|&nbsp; Hover pada sel matriks untuk keterangan detail
 </footer>
 
 </body>
