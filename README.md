@@ -246,7 +246,7 @@
 
 <header>
   <div class="sup-label">Program Studi Sarjana Terapan D4 Teknik Listrik Politeknik Caltex Riau </div>
-  <h1>Peta Hubungan <em>PEO</em> –<br>Profil Lulusan – CPL</h1>
+  <h1>Peta Hubungan <em>PEO</em> – Profil Lulusan – CPL</h1>
   <p>Visualisasi keterkaitan antara 3 Program Educational Objectives, 2 Profil Lulusan, dan 10 Capaian Pembelajaran Lulusan secara komprehensif dan sistematis.</p>
 </header>
 
